@@ -1,6 +1,6 @@
-# Mini Projeto 'Lista de Presença' com React.js:
+# Projeto 'Listagem de Filmes por Gênero' com React.js:
 
-A página foi desenvolvida durante parte dos desafios da Trilha de React da Rocketseat. Nesse desafio, a inteção era treinar a renderização de componentes com base nos clicks disponíveis na SideBar da aplicação.
+A página foi desenvolvida durante parte dos desafios da Trilha de React da Rocketseat. Nesse desafio, a intenção era treinar a renderização de componentes com base nos clicks disponíveis na SideBar da aplicação.
 
 # Funções de forma rápida:
 
